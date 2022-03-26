@@ -1,7 +1,6 @@
 {
-  "name": "Alloy",
-  "description": "A Titanium Network web proxy.",
-  "repository": "https://github.com/titaniumnetwork-dev/alloy/",
-  "logo": "https://avatars.githubusercontent.com/u/47227492?s=200&v=4",
-  "keywords": ["alloy", "proxy", "web-unblocker", "internet", "alloyproxy"]
+  "name": "Coroku",
+  "description": "A functional, free, and easy to use web proxy site.",
+  "repository": "https://github.com/kovak7/Coroku",
+  "logo": "https://avatars.githubusercontent.com/u/97852069?s=400&u=e66bc3ca243fea063a3fcecbfae5a2000805642d&v=4"
 }
