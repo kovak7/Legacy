@@ -1,4 +1,4 @@
-# This version of Coroku is discontinued, I will no longer be updating this!
+*This version of Coroku is discontinued, I will no longer be updating this!*
 ***Legacy Coroku***
 _The Coroku Web Proxy Site: Fast, Simple, Anonymous_
 
